@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">著作権に関する声明、商標、特許などにアクセスできます。</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法的通知</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">著作権</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">商標</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp 、 NetApp のロゴ、および NetApp の商標ページに記載されているマークは、 NetApp, Inc. の商標です。その他の会社名および製品名は、それぞれの所有者の商標である場合があります。</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">特許</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">ネットアップが所有する特許の最新リストは、次のサイトで入手できます。</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">プライバシーポリシー</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">オープンソース</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知ファイルには、ネットアップソフトウェアで使用されるサードパーティの著作権およびライセンスに関する情報が記載されています。</block>
+  <block id="cc1ba14f8dc9bd7ba20e2aa654cde10b" category="inline-link">E シリーズ / EF シリーズ SANtricity OS に関する通知です</block>
+  <block id="2dae7f81af3097152530b0bc519d7eb1" category="paragraph"><block ref="2dae7f81af3097152530b0bc519d7eb1" category="inline-link-rx"></block></block>
+  <block id="382db393e370bfa3a27169d580a3161c" category="summary">NetApp Eシリーズ製品ファミリーは、シンプルで管理が容易で、高速なブロックストレージとエンタープライズクラスの信頼性を必要とする広帯域幅アプリケーションにストレージとアプリケーションのデータ管理サービスを提供します。</block>
+  <block id="dc1480e3f0580dddb0eb15f3b1bd5d52" category="doc">Eシリーズストレージシステムの概要</block>
+  <block id="60adc38a80ac6ff80c4e7414ed3a9242" category="paragraph">NetApp Eシリーズストレージファミリーは、柔軟性と対費用効果に優れたクラウドへのバックアップとリカバリを提供します。シンプルで管理が容易で、エンタープライズクラスの信頼性を備えた高速なブロックストレージを必要とする、広帯域を必要とする専用アプリケーション向けに設計されています。</block>
+  <block id="7198a11b2d2b782e219fa68720bb5d6c" category="section-title">Eシリーズプラットフォーム</block>
+  <block id="f13bfd89800bb7dd61e5dae9b1a91f8a" category="paragraph">Eシリーズストレージシステムでは、アプリケーション対応のデータ管理ツールを使用して、2Uまたは4Uフォームファクタの複数のドライブタイプに対応できます。ストレージシステムは、複数のタイプのインターフェイスからSANに接続でき、さまざまなホストオペレーティングシステムに接続できます。</block>
+  <block id="474ecc1d12d7c4faf62dd1c969e4f160" category="paragraph">Eシリーズストレージシステムには、次のプラットフォームモデルが含まれます。</block>
+  <block id="142d49f5d8166cda23176c9355cb6387" category="section-title">EF600およびEF300</block>
+  <block id="79f8f1fbe8dcba48c51b15f621e49c92" category="inline-link">EFシリーズのデータシートをご覧ください</block>
+  <block id="824daac554592cadf3b249894d67cff8" category="paragraph">ビッグデータ分析やデータベースなど、最高レベルのパフォーマンスを必要とするワークロード向けに特別に設計されています。<block ref="71dc60d79dd40763b18f513ded3d99e8" category="inline-link-rx"></block>。</block>
+  <block id="176e516e8cae45764073b4a9b3674666" category="section-title">E5700 の</block>
+  <block id="e8b9daf8d8b00f9b9b2515d42827f16a" category="inline-link">E5700のデータシートをご覧ください</block>
+  <block id="b41245e938c0eb6a57785a746765fa7c" category="paragraph">ハイパフォーマンスで大量のデータを処理する帯域幅のアプリケーションをエンタープライズクラスの信頼性で運用できるように設計されています。<block ref="72e93c931f93e0c8c8db687b40f1ace1" category="inline-link-rx"></block>。</block>
+  <block id="36ea2743576b4967eefec734fdf225a7" category="section-title">E2800</block>
+  <block id="6f17c1b5648204e27c5232cfad266c55" category="inline-link">E2800のデータシートをご覧ください</block>
+  <block id="e8f23798dedf5fb04422ba0f033696c5" category="paragraph">特定用途向けアプリケーションに混在ワークロードのパフォーマンスと信頼性が求められる小規模企業やリモートオフィス向けに最適化されています。<block ref="26480bd821c09889b2e5cbaaf48e5dc8" category="inline-link-rx"></block>。</block>
+  <block id="eecdfe99dab1ba77ed2b7b1d9b86256b" category="section-title">SANtricity ソフトウェア</block>
+  <block id="c85501584627f2cc9e6b757a852d4e63" category="inline-link">SANtricity ソフトウェアのデータシートをご覧ください</block>
+  <block id="84bc0a1513121ee956ca4ce10ead9936" category="paragraph">SANtricity ソフトウェアは、ネットワーク内のストレージシステムの表示、プロビジョニング、および管理に使用するSystem ManagerとUnified ManagerのWebベースのインターフェイスの両方を提供します。<block ref="c400d3a8092cc6a075073949ecf7a212" category="inline-link-rx"></block>。</block>
+  <block id="0472921e1ddce2239a2bd92ea276d1c2" category="section-title">SANtricity システムマネージャ</block>
+  <block id="155ba2a638583b348ccb0b7fc7108688" category="paragraph">System Manager は Web ベースの管理ソフトウェアで、各コントローラに組み込まれています。ユーザーインターフェイスにアクセスするには、ブラウザでコントローラのIPアドレスを指定します。セットアップウィザードを使用してシステムを設定できます。</block>
+  <block id="6f61b0c447b71c45c147e05cbfc87178" category="list-text">直感的なワークフローウィザードと状況に応じたヘルプによって、設定タスクを合理化できます。</block>
+  <block id="d58a6774dd36696628592a8eff022a15" category="list-text">このソフトウェアは、高密度エンクロージャでのドロワー障害からの保護、SSDの摩耗寿命とパフォーマンスのスマートな管理など、ハードウェア機能を活用する構成候補を提案します。</block>
+  <block id="1b306f277e433d9c7e0233e720d52d99" category="list-text">高度なパフォーマンス監視機能により、システムレベルから個々のドライブに至るまでの情報を表示したり、パフォーマンスデータをエクスポートして詳細な分析を行うことができます。</block>
+  <block id="71f014c2f7e738ecc931a0a516a33238" category="list-text">SSDキャッシュやデータキャッシュの管理などの調整作業はすべてオンラインです。修復が必要になった場合は、SANtricity Recovery Guruにステップバイステップの手順が記載されます。</block>
+  <block id="93abfbfe31ac8cb67502c94e622ee8a8" category="section-title">SANtricity Unified Manager の略</block>
+  <block id="1a3e4ccf2425125b19b4d5b3b8b17da4" category="paragraph">Unified Manager は、ドメイン全体の管理に使用する Web ベースのソフトウェアです。E2800 、 EF280 、 EF300 、 E5700 、 EF570 など、すべての新しい E シリーズおよび EF シリーズアレイのステータスをまとめて表示できます。 および EF600 ：選択したストレージアレイに対してバッチ処理を実行することもできます。</block>
+  <block id="f18f8f90cfe3810c5e7f5c085e94d1a7" category="list-text">1つのウィンドウで、ステータスの表示、アレイのグループ化、複数のアレイのSANtricity OSの更新、各アレイの組み込みのSANtricity システムマネージャの起動を行うことができます。</block>
+  <block id="e65516a5e95531b050dd3751b19ef2f9" category="list-text">1回の操作で複数のアレイにアラートやその他の設定を簡単に行うことができます。</block>
+  <block id="5bb111ca60863cc17cf83064aea26a19" category="list-text">SANtricity Unified Managerは、LinuxまたはWindowsの管理サーバにインストールされ、ブラウザで実行されます。</block>
+  <block id="ecec8539b1f11214ad374681d68d19e9" category="section-title">SANtricity Web Services Proxy の略</block>
+  <block id="daeeebb8e9e597b9227ca801571d0a1d" category="paragraph">Web Services Proxyは、オーケストレーションと自動化のニーズに対応するフル機能のRESTful APIサーバで、数百台規模の新旧のEシリーズアレイを管理できます。Windows サーバまたは Linux サーバに別途インストールされます。Web Services には、 REST API と直接やり取りできる API ドキュメントが含まれています。</block>
+  <block id="91af5705f16502125e8b2187e64202c0" category="section-title">CLI の使用</block>
+  <block id="d5a07a929adbc3f8e1dccfa24e88da4b" category="paragraph">コマンドラインインターフェイス（ CLI ）は、ストレージアレイを設定および監視するためのソフトウェアアプリケーションです。</block>
+  <block id="f4607823508251fea132b5896ba4f3ac" category="paragraph">CLI を使用すると、 DOS の C ：プロンプト、 Linux のオペレーティングシステムパス、 Solaris のオペレーティングシステムパスなど、オペレーティングシステムのプロンプトからコマンドを実行できます。</block>
+  <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="section-title">を参照してください。</block>
+  <block id="830ee94872b7a18739baf66c6ccbb536" category="inline-link">Eシリーズシステムのドキュメント</block>
+  <block id="62e3a3373b07a4ed70aa50f0850dadb1" category="list-text"><block ref="62e3a3373b07a4ed70aa50f0850dadb1" category="inline-link-rx"></block></block>
+  <block id="fb38142cf581707ecd8e0a64768f30e2" category="inline-link">SANtricity ソフトウェアのドキュメント</block>
+  <block id="e050e4490e5eaec5fd5e4bf4116c7362" category="list-text"><block ref="e050e4490e5eaec5fd5e4bf4116c7362" category="inline-link-rx"></block></block>
+  <block id="eba4a8577f6ea49ab0d9329cade5c5db" category="inline-link">SANtricity CLIのドキュメント</block>
+  <block id="08b37af774e1d6729f763c26e7c1384a" category="list-text"><block ref="08b37af774e1d6729f763c26e7c1384a" category="inline-link-rx"></block></block>
+  <block id="5f93f381aa8df330451fa5b834f54def" category="doc">E シリーズのドキュメント</block>
+  <block id="294d136d5efcf1648eafe92db6c5cf9e" category="sidebar">Eシリーズ製品ファミリーのドキュメント</block>
+  <block id="3a1266b54b8b88dbb50662ab4166c05f" category="sidebar">すべてのドキュメント</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">はじめに</block>
+  <block id="dc21b082b0947a93d387b8c7e8f89ee5" category="sidebar">データストレージ</block>
+  <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="sidebar">ストレージ管理</block>
+  <block id="8c191741b464ec7257da6dda2ea38d91" category="sidebar">Eシリーズファミリーの詳細については、こちらをご覧ください</block>
+  <block id="447139bc81b52e1a424305db2e2a4444" category="sidebar">Eシリーズファミリーのストレージシステムについて説明します。</block>
+  <block id="69f6cbec6c91e989cb5c058849d7ff20" category="sidebar">Eシリーズシステム</block>
+  <block id="4fa72b310e1ed4cfa3e25e3a7968eedb" category="sidebar">Eシリーズストレージシステムは、高速なブロックストレージとエンタープライズクラスの信頼性でアプリケーションワークロードをサポートします。</block>
+  <block id="c62c395ffcd8aa3e5d38fe7155d2f510" category="sidebar">SANtricity ソフトウェア</block>
+  <block id="7669263ca1cb255bffb7dbd87c93b300" category="sidebar">SANtricity ソフトウェアを使用して、WebベースのインターフェイスからEシリーズストレージシステムをプロビジョニングおよび管理します。</block>
+  <block id="4b77a7b9a57e83d2c4b01e16f3234143" category="sidebar">コマンドラインインターフェイス</block>
+  <block id="19a0a15a7c4d3a3bc51418cbc9a3b2ec" category="sidebar">CLIを使用して、オペレーティングシステムのプロンプトからEシリーズストレージシステムを設定および監視します。</block>
+  <block id="7be46423c2b30b6cfa401cb45a35ad2b" category="sidebar">WebサービスAPI</block>
+  <block id="c47070155f88602aa042524cd2cc4603" category="sidebar">RESTful APIを使用して、新旧のEシリーズストレージシステムのワークフローを構築、自動化できます。</block>
+</blocks>
