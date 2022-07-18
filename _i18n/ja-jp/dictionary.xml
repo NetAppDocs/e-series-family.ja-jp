@@ -25,16 +25,12 @@
   <block id="474ecc1d12d7c4faf62dd1c969e4f160" category="paragraph">Eシリーズストレージシステムには、次のプラットフォームモデルが含まれます。</block>
   <block id="142d49f5d8166cda23176c9355cb6387" category="section-title">EF600およびEF300</block>
   <block id="79f8f1fbe8dcba48c51b15f621e49c92" category="inline-link">EFシリーズのデータシートをご覧ください</block>
-  <block id="824daac554592cadf3b249894d67cff8" category="paragraph">ビッグデータ分析やデータベースなど、最高レベルのパフォーマンスを必要とするワークロード向けに特別に設計されています。<block ref="71dc60d79dd40763b18f513ded3d99e8" category="inline-link-rx"></block>。</block>
   <block id="176e516e8cae45764073b4a9b3674666" category="section-title">E5700 の</block>
   <block id="e8b9daf8d8b00f9b9b2515d42827f16a" category="inline-link">E5700のデータシートをご覧ください</block>
-  <block id="b41245e938c0eb6a57785a746765fa7c" category="paragraph">ハイパフォーマンスで大量のデータを処理する帯域幅のアプリケーションをエンタープライズクラスの信頼性で運用できるように設計されています。<block ref="72e93c931f93e0c8c8db687b40f1ace1" category="inline-link-rx"></block>。</block>
   <block id="36ea2743576b4967eefec734fdf225a7" category="section-title">E2800</block>
   <block id="6f17c1b5648204e27c5232cfad266c55" category="inline-link">E2800のデータシートをご覧ください</block>
-  <block id="e8f23798dedf5fb04422ba0f033696c5" category="paragraph">特定用途向けアプリケーションに混在ワークロードのパフォーマンスと信頼性が求められる小規模企業やリモートオフィス向けに最適化されています。<block ref="26480bd821c09889b2e5cbaaf48e5dc8" category="inline-link-rx"></block>。</block>
   <block id="eecdfe99dab1ba77ed2b7b1d9b86256b" category="section-title">SANtricity ソフトウェア</block>
   <block id="c85501584627f2cc9e6b757a852d4e63" category="inline-link">SANtricity ソフトウェアのデータシートをご覧ください</block>
-  <block id="84bc0a1513121ee956ca4ce10ead9936" category="paragraph">SANtricity ソフトウェアは、ネットワーク内のストレージシステムの表示、プロビジョニング、および管理に使用するSystem ManagerとUnified ManagerのWebベースのインターフェイスの両方を提供します。<block ref="c400d3a8092cc6a075073949ecf7a212" category="inline-link-rx"></block>。</block>
   <block id="0472921e1ddce2239a2bd92ea276d1c2" category="section-title">SANtricity システムマネージャ</block>
   <block id="155ba2a638583b348ccb0b7fc7108688" category="paragraph">System Manager は Web ベースの管理ソフトウェアで、各コントローラに組み込まれています。ユーザーインターフェイスにアクセスするには、ブラウザでコントローラのIPアドレスを指定します。セットアップウィザードを使用してシステムを設定できます。</block>
   <block id="6f61b0c447b71c45c147e05cbfc87178" category="list-text">直感的なワークフローウィザードと状況に応じたヘルプによって、設定タスクを合理化できます。</block>
@@ -74,4 +70,20 @@
   <block id="19a0a15a7c4d3a3bc51418cbc9a3b2ec" category="sidebar">CLIを使用して、オペレーティングシステムのプロンプトからEシリーズストレージシステムを設定および監視します。</block>
   <block id="7be46423c2b30b6cfa401cb45a35ad2b" category="sidebar">WebサービスAPI</block>
   <block id="c47070155f88602aa042524cd2cc4603" category="sidebar">RESTful APIを使用して、新旧のEシリーズストレージシステムのワークフローを構築、自動化できます。</block>
+  <block id="d4dfeb323e446c2b90b20dc9b54c4405" category="paragraph">ビッグデータ分析やデータベースなど、最高レベルのパフォーマンスを必要とするワークロード向けに特別に設計されています。</block>
+  <block id="1332a08a067b95d420f0d24ab5e89e06" category="paragraph"><block ref="446fc659dbe52df02322454be4d2a16c" category="inline-link-rx"></block>。</block>
+  <block id="2776610d741332584403d7c72fe2e643" category="paragraph">ハイパフォーマンスで大量のデータを処理する帯域幅のアプリケーションをエンタープライズクラスの信頼性で運用できるように設計されています。</block>
+  <block id="7db60f58ccdd2a63d8b656bf8b24c250" category="paragraph"><block ref="1923aee696a50b6ab348b91b901a3f8d" category="inline-link-rx"></block>。</block>
+  <block id="f2c73fc6464033fbbc41882f301e648a" category="paragraph">特定用途向けアプリケーションに混在ワークロードのパフォーマンスと信頼性が求められる小規模企業やリモートオフィス向けに最適化されています。</block>
+  <block id="ce92eed923458edfab9b8e6e3f4513e4" category="paragraph"><block ref="9d9c54284537f20340634e10295f9b82" category="inline-link-rx"></block>。</block>
+  <block id="d73451354372f6ba711b69ac3d99036f" category="paragraph">SANtricity ソフトウェアは、ネットワーク内のストレージシステムの表示、プロビジョニング、および管理に使用するSystem ManagerとUnified ManagerのWebベースのインターフェイスの両方を提供します。</block>
+  <block id="c91ec79ba7eb6afe3bee8d05dd5b4c6b" category="paragraph"><block ref="e9ac56e88b1e1b1148ff7abd9fb1f524" category="inline-link-rx"></block>。</block>
+  <block id="6bd2c03bfc3d63944f2817a37088263b" category="inline-link">SANtricity システムマネージャのドキュメントサイト</block>
+  <block id="5afd900f0f71dd604d4874e9a5ea949c" category="paragraph">にアクセスします<block ref="d3e10be75726740b542aeca9462b931c" category="inline-link-rx"></block>では、ストレージアレイの計画、設定、管理、トラブルシューティングに関する情報を参照できます。</block>
+  <block id="3673719ad0b24cfc30109f551173e76e" category="inline-link">SANtricity Unified Managerドキュメントサイト</block>
+  <block id="a26e5cf035de8141c2fb3927d8b2d507" category="paragraph">にアクセスします<block ref="b07fdda9632566425eb1def704327131" category="inline-link-rx"></block>では、複数のネットワークストレージアレイでストレージ管理コマンドを実行する方法について説明します。</block>
+  <block id="a06cfdf8837b8871b5ecb26355f8ab4c" category="inline-link">Web Services Proxyのドキュメント</block>
+  <block id="ffac070967eb40fdceb147fa5be92747" category="paragraph">にアクセスします<block ref="3543222ed8371c51755d66d67eb39e6e" category="inline-link-rx"></block>。</block>
+  <block id="95a096ebb928185f9e6ab6436acd0f72" category="inline-link">SANtricity CLIドキュメントサイト</block>
+  <block id="218f987c65a84423095d258027200ebd" category="paragraph">にアクセスします<block ref="3ada143f2e378ec106c3939a26190114" category="inline-link-rx"></block>では、CLIコマンドを使用してストレージアレイを設定および監視する方法を確認できます。</block>
 </blocks>

@@ -24,25 +24,33 @@ Eシリーズストレージシステムには、次のプラットフォーム�
 
 === EF600およびEF300
 
-ビッグデータ分析やデータベースなど、最高レベルのパフォーマンスを必要とするワークロード向けに特別に設計されています。 https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["EFシリーズのデータシートをご覧ください"^]。
+ビッグデータ分析やデータベースなど、最高レベルのパフォーマンスを必要とするワークロード向けに特別に設計されています。
+
+https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["EFシリーズのデータシートをご覧ください"^]。
 
 
 
 === E5700 の
 
-ハイパフォーマンスで大量のデータを処理する帯域幅のアプリケーションをエンタープライズクラスの信頼性で運用できるように設計されています。 https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["E5700のデータシートをご覧ください"^]。
+ハイパフォーマンスで大量のデータを処理する帯域幅のアプリケーションをエンタープライズクラスの信頼性で運用できるように設計されています。
+
+https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["E5700のデータシートをご覧ください"^]。
 
 
 
 === E2800
 
-特定用途向けアプリケーションに混在ワークロードのパフォーマンスと信頼性が求められる小規模企業やリモートオフィス向けに最適化されています。 https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf["E2800のデータシートをご覧ください"^]。
+特定用途向けアプリケーションに混在ワークロードのパフォーマンスと信頼性が求められる小規模企業やリモートオフィス向けに最適化されています。
+
+https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf["E2800のデータシートをご覧ください"^]。
 
 
 
 == SANtricity ソフトウェア
 
-SANtricity ソフトウェアは、ネットワーク内のストレージシステムの表示、プロビジョニング、および管理に使用するSystem ManagerとUnified ManagerのWebベースのインターフェイスの両方を提供します。 https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf["SANtricity ソフトウェアのデータシートをご覧ください"^]。
+SANtricity ソフトウェアは、ネットワーク内のストレージシステムの表示、プロビジョニング、および管理に使用するSystem ManagerとUnified ManagerのWebベースのインターフェイスの両方を提供します。
+
+https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf["SANtricity ソフトウェアのデータシートをご覧ください"^]。
 
 
 
@@ -56,6 +64,8 @@ System Manager は Web ベースの管理ソフトウェアで、各コントロ
 * SSDキャッシュやデータキャッシュの管理などの調整作業はすべてオンラインです。修復が必要になった場合は、SANtricity Recovery Guruにステップバイステップの手順が記載されます。
 
 
+にアクセスします https://docs.netapp.com/us-en/e-series-santricity/system-manager/index.html["SANtricity システムマネージャのドキュメントサイト"]では、ストレージアレイの計画、設定、管理、トラブルシューティングに関する情報を参照できます。
+
 
 
 === SANtricity Unified Manager の略
@@ -67,11 +77,15 @@ Unified Manager は、ドメイン全体の管理に使用する Web ベース�
 * SANtricity Unified Managerは、LinuxまたはWindowsの管理サーバにインストールされ、ブラウザで実行されます。
 
 
+にアクセスします https://docs.netapp.com/us-en/e-series-santricity/unified-manager/index.html["SANtricity Unified Managerドキュメントサイト"]では、複数のネットワークストレージアレイでストレージ管理コマンドを実行する方法について説明します。
+
 
 
 === SANtricity Web Services Proxy の略
 
 Web Services Proxyは、オーケストレーションと自動化のニーズに対応するフル機能のRESTful APIサーバで、数百台規模の新旧のEシリーズアレイを管理できます。Windows サーバまたは Linux サーバに別途インストールされます。Web Services には、 REST API と直接やり取りできる API ドキュメントが含まれています。
+
+にアクセスします https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html["Web Services Proxyのドキュメント"]。
 
 
 
@@ -80,6 +94,8 @@ Web Services Proxyは、オーケストレーションと自動化のニーズ�
 コマンドラインインターフェイス（ CLI ）は、ストレージアレイを設定および監視するためのソフトウェアアプリケーションです。
 
 CLI を使用すると、 DOS の C ：プロンプト、 Linux のオペレーティングシステムパス、 Solaris のオペレーティングシステムパスなど、オペレーティングシステムのプロンプトからコマンドを実行できます。
+
+にアクセスします https://docs.netapp.com/us-en/e-series-cli/index.html["SANtricity CLIドキュメントサイト"]では、CLIコマンドを使用してストレージアレイを設定および監視する方法を確認できます。
 
 
 
