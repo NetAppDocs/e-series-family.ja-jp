@@ -26,6 +26,10 @@ Eシリーズストレージシステムには、次のプラットフォーム�
 
 ビッグデータ分析やデータベースなど、最高レベルのパフォーマンスを必要とするワークロード向けに特別に設計されています。
 
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef600-models["EF600モデルの詳細については、こちらをご覧ください"]。
+
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef300-models["EF300モデルの詳細については、こちらをご覧ください"]。
+
 https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["EFシリーズのデータシートをご覧ください"^]。
 
 
@@ -34,6 +38,8 @@ https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["EFシリーズの
 
 ハイパフォーマンスで大量のデータを処理する帯域幅のアプリケーションをエンタープライズクラスの信頼性で運用できるように設計されています。
 
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#e5700-models["E5700モデルの詳細については、こちらをご覧ください"]。
+
 https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["E5700のデータシートをご覧ください"^]。
 
 
@@ -41,6 +47,8 @@ https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["E5700のデータ�
 === E2800
 
 特定用途向けアプリケーションに混在ワークロードのパフォーマンスと信頼性が求められる小規模企業やリモートオフィス向けに最適化されています。
+
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#e2800-models["E2800モデルの詳細については、こちらをご覧ください"]。
 
 https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf["E2800のデータシートをご覧ください"^]。
 
