@@ -1,6 +1,7 @@
 ---
 settings:
   name: E-Series Family
+  search: e-series,e-series-santricity,e-series-cli
   internal:
     pdf_enabled: false
   prod:
@@ -12,9 +13,8 @@ sidebar:
   - title: Eシリーズ製品ファミリーのドキュメント
     url: "/index.html"
 product-family:
-  search: clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod
   sidebarlinks:
-  - title: すべて
+  - title: すべてのドキュメント
     tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity,
       tag_solution
     class: active
@@ -52,8 +52,8 @@ product-family:
     url: https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html
     summary: RESTful APIを使用して、新旧のEシリーズストレージシステムのワークフローを構築、自動化できます。
     tags: all, tag_storage_management, tag_SANtricity
-  - title: ネットアップのBeeGFS
-    icon: "./media/BeeGFS-ESeries.png"
-    url: https://docs.netapp.com/us-en/beegfs/index.html
-    summary: BeeGFS並列ファイルシステムとNetApp EF600ストレージシステムを組み合わせることで、高可用性AIとHPCのストレージインフラにBeeGFSを搭載します。
+  - title: Eシリーズストレージを使用したネットアップのBeeGFS
+    icon: "./media/api.png"
+    url: https://review.docs.netapp.com/us-en/beegfs_admin-jgallagher/index.html
+    summary: BeeGFSをネットアップで使用して、BeeGFS並列ファイルシステムとNetApp EF600ストレージシステムを組み合わせた高可用性インフラを構築して導入します。
     tags: all, tag_solution
