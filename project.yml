@@ -54,6 +54,6 @@ product-family:
     tags: all, tag_storage_management, tag_SANtricity
   - title: Eシリーズストレージを使用したネットアップのBeeGFS
     icon: "./media/api.png"
-    url: https://review.docs.netapp.com/us-en/beegfs_admin-jgallagher/index.html
+    url: https://docs.netapp.com/us-en/beegfs/index.html
     summary: BeeGFSをネットアップで使用して、BeeGFS並列ファイルシステムとNetApp EF600ストレージシステムを組み合わせた高可用性インフラを構築して導入します。
     tags: all, tag_solution
