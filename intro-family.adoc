@@ -1,15 +1,16 @@
 ---
 permalink: intro-family.html 
-keywords: introduction, what E-Series is, e-series, SANtricity, CLI, system manager, unified manager 
-summary: NetApp Eシリーズ製品ファミリーは、シンプルで管理が容易で、高速なブロックストレージとエンタープライズクラスの信頼性を必要とする広帯域幅アプリケーションにストレージとアプリケーションのデータ管理サービスを提供します。 
+keywords: e-series 
+summary: NetApp Eシリーズストレージファミリーは、柔軟性と対費用効果に優れたクラウドへのバックアップとリカバリを提供します。シンプルで管理が容易で、エンタープライズクラスの信頼性を備えた高速なブロックストレージを必要とする、広帯域を必要とする専用アプリケーション向けに設計されています。 
 ---
-= Eシリーズストレージシステムの概要
+= Eシリーズ製品ファミリーの詳細
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
 :imagesdir: ./media/
 
 
+[role="lead"]
 NetApp Eシリーズストレージファミリーは、柔軟性と対費用効果に優れたクラウドへのバックアップとリカバリを提供します。シンプルで管理が容易で、エンタープライズクラスの信頼性を備えた高速なブロックストレージを必要とする、広帯域を必要とする専用アプリケーション向けに設計されています。
 
 
