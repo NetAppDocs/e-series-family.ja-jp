@@ -1,0 +1,50 @@
+---
+product-family:
+  title: E シリーズのドキュメント
+  keywords: introduction, what E-Series is, e-series, SANtricity, CLI, system manager,
+    unified manager
+  lead: NetApp Eシリーズ製品ファミリーは、シンプルで管理が容易で、高速なブロックストレージとエンタープライズクラスの信頼性を必要とする広帯域幅アプリケーションにストレージとアプリケーションのデータ管理サービスを提供します。
+  summary: NetApp Eシリーズ製品ファミリーは、シンプルで管理が容易で、高速なブロックストレージとエンタープライズクラスの信頼性を必要とする広帯域幅アプリケーションにストレージとアプリケーションのデータ管理サービスを提供します。
+  sidebarlinks:
+  - title: すべて
+    tags: tag-all
+    class: active
+  - title: はじめに
+    tags: tag-get-started
+  - title: データストレージ
+    tags: tag-data-storage
+  - title: ストレージ管理
+    tags: tag-storage-management
+  - title: 解決策
+    tags: tag-solution
+  tiles:
+  - title: Eシリーズの詳細をご確認ください
+    icon: "./media/groups_line-1.png"
+    url: intro-family.html
+    summary: Eシリーズファミリーのストレージシステムについて説明します。
+    tags: tag-all,tag-get-started,tag-data-storage,tag-storage-management,tag-solution
+  - title: Eシリーズシステム
+    icon: "./media/system_line.png"
+    url: "../e-series/index.html"
+    summary: Eシリーズストレージシステムは、高速なブロックストレージとエンタープライズクラスの信頼性でアプリケーションワークロードをサポートします。
+    tags: tag-all,tag-data-storage
+  - title: SANtricity ソフトウェア
+    icon: "./media/config_line.png"
+    url: "../e-series-santricity/index.html"
+    summary: SANtricity ソフトウェアを使用して、WebベースのインターフェイスからEシリーズストレージシステムをプロビジョニングおよび管理します。
+    tags: tag-all,tag-storage-management
+  - title: コマンドラインインターフェイス
+    icon: "./media/cli_line.png"
+    url: "../e-series-cli/index.html"
+    summary: CLIを使用して、オペレーティングシステムのプロンプトからEシリーズストレージシステムを設定および監視します。
+    tags: tag-all,tag-storage-management
+  - title: WebサービスAPI
+    icon: "./media/api.png"
+    url: "../e-series/web-services-proxy/index.html"
+    summary: RESTful APIを使用して、新旧のEシリーズストレージシステムのワークフローを構築、自動化できます。
+    tags: tag-all,tag-storage-management
+  - title: Eシリーズストレージを使用したネットアップのBeeGFS
+    icon: "./media/api.png"
+    url: "../beegfs/index.html"
+    summary: BeeGFSをネットアップで使用して、BeeGFS並列ファイルシステムとNetApp EF600ストレージシステムを組み合わせた高可用性インフラを構築して導入します。
+    tags: tag-all,tag-solution
