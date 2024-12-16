@@ -23,6 +23,16 @@ Eシリーズストレージシステムには、次のプラットフォーム�
 
 
 
+=== E4000
+
+分析、ビデオ監視、ハイパフォーマンスコンピューティング（HPC）、バックアップ/リカバリなど、混在ワークロードのパフォーマンスを最適化するために設計されています。
+
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#e4000-models["E4000モデルの詳細については、こちらをご覧ください"]です。
+
+https://www.netapp.com/pdf.html?item=/media/116571-ds-4309-hybrid-flash-arrays-e4060-e4012.pdf["E4000のデータシートをご覧ください"^]です。
+
+
+
 === EF600およびEF300
 
 ビッグデータ分析やデータベースなど、最高レベルのパフォーマンスを必要とするワークロード向けに特別に設計されています。
